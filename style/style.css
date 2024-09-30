@@ -1,0 +1,28 @@
+.candy{background-color: pink;
+    color: blueviolet;
+    width: 200px;
+    height: 100px;
+    border-radius: 15px;
+    padding: 50px;
+    box-shadow: 10px 10px 10px aqua;
+
+
+}
+#sage{
+    background-color: aqua;
+}
+.chamber{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logence{background-color: pink;
+    color: blueviolet;
+    width: 200px;
+    height: 100px;
+    border-radius: 15px;
+    padding: 50px;
+    box-shadow: 10px 10px 10px aqua;
+    visibility: hidden;
+
+
+}
+

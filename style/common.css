@@ -1,0 +1,28 @@
+
+header{
+    background-color: aqua;
+    padding: 20px;
+}
+
+
+ul li{
+    list-style: none;
+    
+
+}
+ul{display: flex;
+    gap:50px
+    
+     ;
+
+
+
+}
+li>a{text-decoration: none;
+color: whitesmoke;
+font-weight: 700;}
+ul>li:hover{
+    background-color: navy;
+    padding: 5px 5px
+    ;
+}

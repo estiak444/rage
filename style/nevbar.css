@@ -1,0 +1,11 @@
+li{
+    display: inline;
+    margin-right: 20px;
+    
+
+}
+a{
+    text-decoration: none;
+    color: aqua;
+        font-weight: 900;
+}
